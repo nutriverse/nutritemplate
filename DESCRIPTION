@@ -1,0 +1,23 @@
+Package: nutritemplate
+Type: Package
+Title: Template and Utilities for nutriverse Package Documentation
+Version: 0.0.0.9000
+Authors@R: c(
+    person(
+      given = "Ernest", family = "Guevarra",
+      email = "ernest@guevarra.io",
+      role = c("aut", "cre", "cph"),
+      comment = c(ORCID = "0000-0002-4887-4415")
+    )
+  )
+Description: A private template for use by nutriverse packages.
+License: GPL (>= 3)
+Suggests: 
+    spelling
+Encoding: UTF-8
+Language: en-GB
+LazyData: true
+RoxygenNote: 7.3.2
+Roxygen: list(markdown = TRUE)
+URL: https://nutriverse.io/nutritemplate/,https://github.com/nutriverse/nutritemplate
+BugReports: https://github.com/nutriverse/nutritemplate/issues
